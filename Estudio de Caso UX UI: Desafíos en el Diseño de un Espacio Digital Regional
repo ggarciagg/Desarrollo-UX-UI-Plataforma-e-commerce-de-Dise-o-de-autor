@@ -1,0 +1,10 @@
+## Contexto
+A mediados de mayo de 2026, inicié una nueva fase de investigación enfocada en el desarrollo de un espacio digital dedicado a la curaduría de diseño de autor y productos regionales. El entorno del proyecto requería resolver la intersección entre la identidad cultural, la artesanía local y los canales digitales contemporáneos, con el fin de ofrecer una experiencia de usuario auténtica y simplificada para los consumidores interesados en piezas de calidad.
+
+## Problema
+El desafío técnico y metodológico principal radicó en traducir de manera fluida un marco de investigación cualitativa estructurado en tres arquetipos de usuario muy específicos (el Comprador Consciente, el Diseñador Local y el Turista Cultural) hacia una interfaz interactiva limpia. Al enfrentarme por primera vez al uso de la herramienta Figma para el prototipado de baja fidelidad, existía el riesgo técnico de ralentizar las iteraciones o de generar estructuras de navegación genéricas que no reflejaran de manera fidedigna las necesidades de curaduría e identidad cultural detectadas en la fase de investigación.
+
+## Acciones
+Para superar la curva de aprendizaje técnica de la herramienta de diseño y optimizar los tiempos de entrega, incorporé el uso de *Figma Make* como asistente en la creación de los primeros wireframes digitales. 
+
+Tras implementar las primeras pantallas, realicé un **post-mortem constructivo** interno. Este análisis reveló que los flujos iniciales generados de forma automatizada tendían a estandarizar la experiencia de compra, diluyendo la narrativa histórica del producto que el "Comprador Consciente" exige y dificultando la navegación ágil para el "Turista Cultural". Como medida correctiva, intervine manualmente la arquitectura de la información en el lienzo de diseño, priorizando la verificación humana sobre los layouts preestablecidos y asegurando que cada funcionalidad respondiera directamente a un dolor real del usuario.
