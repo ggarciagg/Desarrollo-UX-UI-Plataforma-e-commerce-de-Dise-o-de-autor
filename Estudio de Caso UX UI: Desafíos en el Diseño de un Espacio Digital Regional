@@ -8,3 +8,8 @@ El desafío técnico y metodológico principal radicó en traducir de manera flu
 Para superar la curva de aprendizaje técnica de la herramienta de diseño y optimizar los tiempos de entrega, incorporé el uso de *Figma Make* como asistente en la creación de los primeros wireframes digitales. 
 
 Tras implementar las primeras pantallas, realicé un **post-mortem constructivo** interno. Este análisis reveló que los flujos iniciales generados de forma automatizada tendían a estandarizar la experiencia de compra, diluyendo la narrativa histórica del producto que el "Comprador Consciente" exige y dificultando la navegación ágil para el "Turista Cultural". Como medida correctiva, intervine manualmente la arquitectura de la información en el lienzo de diseño, priorizando la verificación humana sobre los layouts preestablecidos y asegurando que cada funcionalidad respondiera directamente a un dolor real del usuario.
+
+## Aprendizajes
+Este desafío dejó dos lecciones fundamentales para futuros flujos de trabajo de análisis y diseño:
+1. **Sinergia entre Herramientas y Criterio Humano:** La integración de herramientas de asistencia (como Figma Make) es sumamente valiosa para agilizar la producción de wireframes iniciales, pero la validación humana y la alineación empática con las personas usuarias son insustituibles.
+2. **Control de Versiones en Diseño:** Mantener un registro estricto en el repositorio nos permite documentar no solo código, sino la evolución de las decisiones de experiencia de usuario (UX), facilitando la trazabilidad del producto.
